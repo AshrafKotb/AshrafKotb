@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshrafKotb
-- 👀 I’m interested in ASP .Net Development
+- 👀 I’m interested in ASP .Net Core Development
 - 🌱 I’m currently learning ASP .Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
